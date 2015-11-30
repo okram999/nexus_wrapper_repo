@@ -1,0 +1,7 @@
+name 'nexus_wrapper'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures nexus_wrapper'
+long_description 'Installs/Configures nexus_wrapper'
+version '0.1.0'
