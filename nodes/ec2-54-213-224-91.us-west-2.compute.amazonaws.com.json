@@ -1,0 +1,6 @@
+{
+  "name": "ec2-54-213-224-91.us-west-2.compute.amazonaws.com",
+  "run_list": [
+    "role[nexus]"
+  ]
+}
